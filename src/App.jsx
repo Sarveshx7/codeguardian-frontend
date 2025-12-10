@@ -9,7 +9,8 @@ import {
 import { motion, AnimatePresence } from "framer-motion";
 
 // ✅ Your deployed backend base URL
-const API_BASE = "https://codeguardian-backend-p3fg.onrender.com/api";
+const API_BASE = "https://codeguardian-rshj.onrender.com/api";
+
 
 function App() {
   const [name, setName] = useState("");
